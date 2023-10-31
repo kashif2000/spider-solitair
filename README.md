@@ -19,4 +19,4 @@ To run Spider Solitaire locally, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/spider-solitaire.git
+   git clone https://github.com/kashif2000/spider-solitair.git
